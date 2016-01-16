@@ -1,39 +1,32 @@
+Udacity - How to Use Git & Github
+Lesson 1 reflections
+1) Compare the game_new vs game_old files, share your thoughts?
 Looking at the game_new vs game_old using windows command promp "FC" was interesting.
 I could see minor changes and code and lines, and then the spacr spelling stuck out.
 I knew this was the major difference once seeing it, however it was not very
 "easy" to initially notice through the command console.
 
-How could having easy access to the entire history of a file make you a more 
+2) How could having easy access to the entire history of a file make you a more 
 efficient programmer in the long term?
-
-you would be able to see all revisions, and if a major revision was done and items are 
+You would be able to see all revisions, and if a major revision was done and items are 
 not working properly, it is much easier to see what went wrong by looking at previous
 versions.
 
-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 The pros: you are in control, commit when you want, nothing gets saved that you dont want saved
 cons: you could accidently not save the file, or your computer crashed, or you created too big
 of a commit size, and there are bugs which are hard to track now.
 
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 Because you may need to save multiple web files (.JS , .HTML , .CSS , etc.) in one batch of updates.  This also depends on the type of data you are storing
 Google majority uses at this time are single type word, or excel documents.  There is no need to mix these documents like you do with web files.
 
-How can you use the commands git log and git diff to view the history of files?
-
+5) How can you use the commands git log and git diff to view the history of files?
 You can see all the logs from different users and their comments using git log.  By using git diff "older id" "newer id" we can see what was exactly done between commits 
 
-How might using version control make you more confident to make changes that could break something?
+6) How might using version control make you more confident to make changes that could break something?
+you can easily edit a couple lines of code and think it is not a major change, but you could throw everything off if you do not know how everything is intertwined.
 
-you can easily edit a couple lines of code and think it is not a major change, but you could throw everything off if you do not know how everything is inner-twinned.
-
-Now that you have your workspace set up, what do you want to try using Git for?
-
+7) Now that you have your workspace set up, what do you want to try using Git for?
 I would like to use Git for updating projects on a regular basis so I can
 start building a portfolio of my work. 
-
-
-
-
