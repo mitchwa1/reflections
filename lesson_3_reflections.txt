@@ -1,0 +1,4 @@
+1) When would you want to use a remote repository rather than keeping all your work local?
+  This makes sense because you have a "backup" of your work and you can publish revisions accordingly,
+  rather than having all of your files local
+
