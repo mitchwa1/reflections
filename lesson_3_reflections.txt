@@ -2,3 +2,10 @@
   This makes sense because you have a "backup" of your work and you can publish revisions accordingly,
   rather than having all of your files local
 
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  You may want to pull a different branch than the master, or you may want to work from a specific branch (ie. the one You have been working on) - rather than working from a large project where there can be many contributors.
+
+3)  
+
+
+
