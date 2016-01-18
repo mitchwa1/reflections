@@ -1,3 +1,6 @@
+Udacity - How to Use Git & Github
+Lesson 3 reflections
+
 1) When would you want to use a remote repository rather than keeping all your work local?
   This makes sense because you have a "backup" of your work and you can publish revisions accordingly,
   rather than having all of your files local
@@ -5,7 +8,16 @@
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   You may want to pull a different branch than the master, or you may want to work from a specific branch (ie. the one You have been working on) - rather than working from a large project where there can be many contributors.
 
-3)  
+3)  Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  forks are used as a local clone on GitHub (think of it like a clone via github) - this is important with you want to contribute to other projects that you may not have originally started.  Clones are to make local copies of repositories (ex. if you have a new computer, want to make clone of a project into your local working directory).  Branches are like sub-sections of the master, you would use a branch if you are working on a specific section of a project and need to eventually merge back onto the master
 
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+  if you have the last known state of a remote stored locally you will be able to more easily track the project and see where things were left off
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  you could do online (video, online chat, email) collaboration - but this would be a lot of text / content back and forth, let alone people could be working on several various projects so things could get confusing.  Although, this would be instantaneous feedback with online collaboration, so it could be faster if it was simple and just between two people for example.  
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  if you make changes in a separate branch you will not be affecting the master file - but it may become slightly more confusing merging this back into the master.  If you just update master, merging is not an issue, but you do not have a backup essentially except without reverting back to older commits.  
 
 
